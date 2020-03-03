@@ -1,5 +1,5 @@
 [package]
-name = "p-clipboard"
+name = "clipboard"
 version = "0.1.0"
 authors = ["vincent"]
 license = "MIT"
@@ -7,7 +7,7 @@ build = "build.rs"
 exclude = ["artifacts.json", "index.node"]
 
 [lib]
-name = "p-clipboard"
+name = "clipboard"
 crate-type = ["cdylib"]
 
 [build-dependencies]
