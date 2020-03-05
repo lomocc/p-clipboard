@@ -10,9 +10,5 @@
   },
   "scripts": {
     "install": "neon build --release"
-  },
-  "files": [
-    "native/index.node",
-    "lib"
-  ]
+  }
 }
