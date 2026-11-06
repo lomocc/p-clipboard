@@ -1,0 +1,11 @@
+{
+  "name": "p-clipboard",
+  "version": "0.1.3",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "vincent",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.3.3"
+  }
+}
